@@ -4,6 +4,7 @@ Inspire is a cryptocurrency that was built to inspire people to donate to causes
 To start your journey with Inspire, head over to your favorite cryptocurrency wallet and buy some NSPR. To add the BSC network to Metamask, follow these instructions.
 
 **Usage with Metamask**
+
 Metamask is one of the most famous cryptocurrency wallets today. However, it is an Ethereum wallet, so we must add the Binance Smart Chain to it.
 
 1. Click on the network in the top of the pop-up.
